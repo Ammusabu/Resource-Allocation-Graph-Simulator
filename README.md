@@ -10,8 +10,8 @@ Featuring an intuitive graphical interface, users can actively allocate and deal
 -  Deadlock Detection: Utilizes effective algorithms to identify deadlocks by examining cycles in the resource allocation graph.
 - Flexible Resource Management: Users have the ability to dynamically allocate and deallocate resources to replicate real-life situations.
 - Intuitive Interface: An easy and engaging graphical user interface created to improve user experience.
-** Sequential Simulation: Users have the capability to perform actions in a regulated way, comprehending how resources are distributed and freed.
-** Cycle Detection Algorithm: Effectively identifies circular waits, aiding in the recognition of possible deadlock scenarios.
+- Sequential Simulation: Users have the capability to perform actions in a regulated way, comprehending how resources are distributed and freed.
+- Cycle Detection Algorithm: Effectively identifies circular waits, aiding in the recognition of possible deadlock scenarios.
 
 ## ⚙️Setup & Installation
 ### Prerequisites
@@ -41,37 +41,37 @@ Since the simulator runs on Google Colab, users can easily access it without ins
 
 ### Step 1: Establish Procedures and Resources 
 
-**Incorporate processes (P1, P2, P3, etc.) and resources (R1, R2, R3, etc.) into the diagram. 
+- Incorporate processes (P1, P2, P3, etc.) and resources (R1, R2, R3, etc.) into the diagram. 
 
-**Define edges to illustrate the relationships of allocation and requests between processes and resources. 
+- Define edges to illustrate the relationships of allocation and requests between processes and resources. 
 
 ### Step 2: Model Resource Distribution 
 
-**Allocate resources to processes in a flexible manner. 
+- Allocate resources to processes in a flexible manner. 
 
-**Watch live updates in the visual display as distributions happen. 
+- Watch live updates in the visual display as distributions happen. 
 
 ### Step 3: Identify Deadlocks 
 
-**Execute the integrated deadlock detection algorithm. 
+- Execute the integrated deadlock detection algorithm. 
 
-**The system will alert users upon detecting a deadlock and emphasize the cycle in the graph. 
+- The system will alert users upon detecting a deadlock and emphasize the cycle in the graph. 
 
 ### Step 4: Alter the Graph 
 
-Add or eliminate edges to replicate various resource distribution situations. 
+- Add or eliminate edges to replicate various resource distribution situations. 
 
-Manually free up resources to fix deadlocks and assess recovery methods. 
+- Manually free up resources to fix deadlocks and assess recovery methods. 
 
 ## Safety & Dependability 
 
-- **Cycle Detection Algorithm: Guarantees precise deadlock recognition and avoids erroneous assessments. 
+- Cycle Detection Algorithm: Guarantees precise deadlock recognition and avoids erroneous assessments. 
 
-- **Resource Management: Avoids improper allocations, maintaining resource consistency. 
+- Resource Management: Avoids improper allocations, maintaining resource consistency. 
 
-**Interactive Control: Enables users to take manual action to address and fix deadlocks. 
+- Interactive Control: Enables users to take manual action to address and fix deadlocks. 
 
-**Google Colab Integration: Offers a safe, cloud-hosted environment for executing the simulation. 
+- Google Colab Integration: Offers a safe, cloud-hosted environment for executing the simulation. 
 
 
 
