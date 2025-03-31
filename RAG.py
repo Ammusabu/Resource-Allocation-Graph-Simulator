@@ -1,4 +1,4 @@
-!pip install networkx matplotlib ipywidgets
+
 import networkx as nx
 import matplotlib.pyplot as plt
 from IPython.display import display, clear_output
