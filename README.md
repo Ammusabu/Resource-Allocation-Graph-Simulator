@@ -6,10 +6,10 @@ The Resource Allocation Graph Graphical Simulator is an engaging and instruction
 Featuring an intuitive graphical interface, users can actively allocate and deallocate resources, monitor system performance, and implement various deadlock detection algorithms. The simulator provides an engaging method for grasping intricate operating system concepts through a visually attractive and interactive experience. 
 
 ## key Features
-- ** Visual Representation: The system offers a transparent and engaging depiction of processes and resources, enabling users to observe their real-time interactions.
-** Deadlock Detection: Utilizes effective algorithms to identify deadlocks by examining cycles in the resource allocation graph.
-** Flexible Resource Management: Users have the ability to dynamically allocate and deallocate resources to replicate real-life situations.
-** Intuitive Interface: An easy and engaging graphical user interface created to improve user experience.
+- Visual Representation: The system offers a transparent and engaging depiction of processes and resources, enabling users to observe their real-time interactions.
+-  Deadlock Detection: Utilizes effective algorithms to identify deadlocks by examining cycles in the resource allocation graph.
+- Flexible Resource Management: Users have the ability to dynamically allocate and deallocate resources to replicate real-life situations.
+- Intuitive Interface: An easy and engaging graphical user interface created to improve user experience.
 ** Sequential Simulation: Users have the capability to perform actions in a regulated way, comprehending how resources are distributed and freed.
 ** Cycle Detection Algorithm: Effectively identifies circular waits, aiding in the recognition of possible deadlock scenarios.
 
