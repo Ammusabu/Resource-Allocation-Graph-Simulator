@@ -1,2 +1,2 @@
 # OS-CA
-Interactive simulator for OS resource allocation graphs
+# Graphical Simulator for Resource Allocation Graph
